@@ -17,7 +17,12 @@
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 </div>
           
-          
+
+<style>
+  div {
+    display: flex;
+  }
+</style>
 <!--
 **MuriloUnten/MuriloUnten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
