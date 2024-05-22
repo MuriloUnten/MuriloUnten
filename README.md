@@ -6,7 +6,7 @@
 <!--  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloUnten&layout=compact&langs_count=7&theme=dark"/> --!>
 </div>
 
-<div style="flex: auto flex-direction: column">
+<div style="display: flex; flex-direction: column">
   <div>
     ![Cpp](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
